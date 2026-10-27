@@ -1,0 +1,4 @@
+{"id": "synthetic_test_good_4", "text": "test: Este producto sintético bueno numero 4: excelente y funciona.", "label": "POSITIVO", "label_original": 4}
+{"id": "synthetic_test_bad_3", "text": "test: Este producto sintético malo numero 3: falla y no funciona.", "label": "NEGATIVO", "label_original": 0}
+{"id": "synthetic_test_good_0", "text": "test: Este producto sintético bueno numero 0: excelente y funciona.", "label": "POSITIVO", "label_original": 4}
+{"id": "synthetic_test_bad_4", "text": "test: Este producto sintético malo numero 4: falla y no funciona.", "label": "NEGATIVO", "label_original": 0}

@@ -1,0 +1,27 @@
+# Python
+.venv/
+__pycache__/
+*.pyc
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Datos grandes / regenerables
+data/raw/
+data/processed/
+data/tokenized/
+
+# Modelos y checkpoints
+models/base/
+models/checkpoints/
+*.pt
+*.pth
+*.bin
+*.safetensors
+
+# Resultados generados
+results/
+
+# Windows
+*:Zone.Identifier
+Thumbs.db

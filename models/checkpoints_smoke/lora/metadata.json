@@ -1,0 +1,20 @@
+{
+  "kind": "lora",
+  "model_repo": "toy-offline-random-not-pretrained",
+  "model_revision": "demo",
+  "backend": "toy",
+  "rank": 2,
+  "alpha": 4,
+  "targets": [
+    "c_attn"
+  ],
+  "seed": 42,
+  "metrics": {
+    "train_last_loss": 5.002779483795166,
+    "validation_loss": 4.998938798904419,
+    "wall_time_sec": 0.012,
+    "steps": 2,
+    "parameters_total": 25888,
+    "parameters_trainable": 256
+  }
+}

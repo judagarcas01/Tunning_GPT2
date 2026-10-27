@@ -1,0 +1,24 @@
+{"id": "synthetic_train_bad_0", "text": "train: Este producto sintético malo numero 0: falla y no funciona.", "label": 0, "label_text": "0"}
+{"id": "synthetic_train_good_0", "text": "train: Este producto sintético bueno numero 0: excelente y funciona.", "label": 4, "label_text": "4"}
+{"id": "synthetic_train_bad_1", "text": "train: Este producto sintético malo numero 1: falla y no funciona.", "label": 0, "label_text": "0"}
+{"id": "synthetic_train_good_1", "text": "train: Este producto sintético bueno numero 1: excelente y funciona.", "label": 4, "label_text": "4"}
+{"id": "synthetic_train_bad_2", "text": "train: Este producto sintético malo numero 2: falla y no funciona.", "label": 0, "label_text": "0"}
+{"id": "synthetic_train_good_2", "text": "train: Este producto sintético bueno numero 2: excelente y funciona.", "label": 4, "label_text": "4"}
+{"id": "synthetic_train_bad_3", "text": "train: Este producto sintético malo numero 3: falla y no funciona.", "label": 0, "label_text": "0"}
+{"id": "synthetic_train_good_3", "text": "train: Este producto sintético bueno numero 3: excelente y funciona.", "label": 4, "label_text": "4"}
+{"id": "synthetic_train_bad_4", "text": "train: Este producto sintético malo numero 4: falla y no funciona.", "label": 0, "label_text": "0"}
+{"id": "synthetic_train_good_4", "text": "train: Este producto sintético bueno numero 4: excelente y funciona.", "label": 4, "label_text": "4"}
+{"id": "synthetic_train_bad_5", "text": "train: Este producto sintético malo numero 5: falla y no funciona.", "label": 0, "label_text": "0"}
+{"id": "synthetic_train_good_5", "text": "train: Este producto sintético bueno numero 5: excelente y funciona.", "label": 4, "label_text": "4"}
+{"id": "synthetic_train_bad_6", "text": "train: Este producto sintético malo numero 6: falla y no funciona.", "label": 0, "label_text": "0"}
+{"id": "synthetic_train_good_6", "text": "train: Este producto sintético bueno numero 6: excelente y funciona.", "label": 4, "label_text": "4"}
+{"id": "synthetic_train_bad_7", "text": "train: Este producto sintético malo numero 7: falla y no funciona.", "label": 0, "label_text": "0"}
+{"id": "synthetic_train_good_7", "text": "train: Este producto sintético bueno numero 7: excelente y funciona.", "label": 4, "label_text": "4"}
+{"id": "synthetic_train_bad_8", "text": "train: Este producto sintético malo numero 8: falla y no funciona.", "label": 0, "label_text": "0"}
+{"id": "synthetic_train_good_8", "text": "train: Este producto sintético bueno numero 8: excelente y funciona.", "label": 4, "label_text": "4"}
+{"id": "synthetic_train_bad_9", "text": "train: Este producto sintético malo numero 9: falla y no funciona.", "label": 0, "label_text": "0"}
+{"id": "synthetic_train_good_9", "text": "train: Este producto sintético bueno numero 9: excelente y funciona.", "label": 4, "label_text": "4"}
+{"id": "synthetic_train_bad_10", "text": "train: Este producto sintético malo numero 10: falla y no funciona.", "label": 0, "label_text": "0"}
+{"id": "synthetic_train_good_10", "text": "train: Este producto sintético bueno numero 10: excelente y funciona.", "label": 4, "label_text": "4"}
+{"id": "synthetic_train_bad_11", "text": "train: Este producto sintético malo numero 11: falla y no funciona.", "label": 0, "label_text": "0"}
+{"id": "synthetic_train_good_11", "text": "train: Este producto sintético bueno numero 11: excelente y funciona.", "label": 4, "label_text": "4"}

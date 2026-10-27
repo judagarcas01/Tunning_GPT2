@@ -1,0 +1,18 @@
+{
+  "kind": "full",
+  "model_repo": "toy-offline-random-not-pretrained",
+  "model_revision": "demo",
+  "backend": "toy",
+  "rank": null,
+  "alpha": null,
+  "targets": null,
+  "seed": 42,
+  "metrics": {
+    "train_last_loss": 5.002779483795166,
+    "validation_loss": 4.964901447296143,
+    "wall_time_sec": 0.016,
+    "steps": 2,
+    "parameters_total": 25632,
+    "parameters_trainable": 25632
+  }
+}

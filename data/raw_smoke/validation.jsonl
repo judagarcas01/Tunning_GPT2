@@ -1,0 +1,12 @@
+{"id": "synthetic_validation_bad_0", "text": "validation: Este producto sintético malo numero 0: falla y no funciona.", "label": 0, "label_text": "0"}
+{"id": "synthetic_validation_good_0", "text": "validation: Este producto sintético bueno numero 0: excelente y funciona.", "label": 4, "label_text": "4"}
+{"id": "synthetic_validation_bad_1", "text": "validation: Este producto sintético malo numero 1: falla y no funciona.", "label": 0, "label_text": "0"}
+{"id": "synthetic_validation_good_1", "text": "validation: Este producto sintético bueno numero 1: excelente y funciona.", "label": 4, "label_text": "4"}
+{"id": "synthetic_validation_bad_2", "text": "validation: Este producto sintético malo numero 2: falla y no funciona.", "label": 0, "label_text": "0"}
+{"id": "synthetic_validation_good_2", "text": "validation: Este producto sintético bueno numero 2: excelente y funciona.", "label": 4, "label_text": "4"}
+{"id": "synthetic_validation_bad_3", "text": "validation: Este producto sintético malo numero 3: falla y no funciona.", "label": 0, "label_text": "0"}
+{"id": "synthetic_validation_good_3", "text": "validation: Este producto sintético bueno numero 3: excelente y funciona.", "label": 4, "label_text": "4"}
+{"id": "synthetic_validation_bad_4", "text": "validation: Este producto sintético malo numero 4: falla y no funciona.", "label": 0, "label_text": "0"}
+{"id": "synthetic_validation_good_4", "text": "validation: Este producto sintético bueno numero 4: excelente y funciona.", "label": 4, "label_text": "4"}
+{"id": "synthetic_validation_bad_5", "text": "validation: Este producto sintético malo numero 5: falla y no funciona.", "label": 0, "label_text": "0"}
+{"id": "synthetic_validation_good_5", "text": "validation: Este producto sintético bueno numero 5: excelente y funciona.", "label": 4, "label_text": "4"}
